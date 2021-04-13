@@ -1,0 +1,13 @@
+Walkthrough of Resume Website 
+
+The first page of the website presents the About and Social section about myself. Included information about who I am and what I have done for the past few years. 
+Introduced my interest and hobbies. On my social section, I included hyperlinks to my Facebook account and Instagram. Additionally added in my school and personal email as well
+as a Snapchat picture people can add me by scanning it on the Snapchat app. 
+
+There are also navigation buttons "About Social Next Page and Resume". The first two buttons allow you to navigate the page of each section or you can scroll the website. 
+The resume button allows you to view my resume.pdf on a new tab page. The next page goes to another link/page towards the experience and Project sections. 
+
+The experience section includes information about the skills and CS language I have done and learned. Below the skills and CS language includes information about 
+jobs I have done currently/past. Two jobs I have done working at NiuB and Luxbar. Containing information about what I do in NiuB and LuxBar and what I learn doing so in the job
+
+Below the experience or clicking the projects section includes some of the CS projects I have done in college. As well as, included pictures I have done in the past and edit them
