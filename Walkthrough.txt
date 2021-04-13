@@ -11,3 +11,7 @@ The experience section includes information about the skills and CS language I h
 jobs I have done currently/past. Two jobs I have done working at NiuB and Luxbar. Containing information about what I do in NiuB and LuxBar and what I learn doing so in the job
 
 Below the experience or clicking the projects section includes some of the CS projects I have done in college. As well as, included pictures I have done in the past and edit them
+
+
+Things I wanted to include would be adding the logo of my workplace and implement it above the description of my workplace. Another project I want to include would be a file
+with documents that includes a project I worked on at my JROTC program that I made using illustrator of a pamphlet. 
